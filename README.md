@@ -1,0 +1,1 @@
+# Stress-Influence-Factor
