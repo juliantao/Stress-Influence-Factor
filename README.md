@@ -23,3 +23,6 @@ To Use the Code:
 1) update the geometry parameters B, L and zf
 
 2) hit run all cells and review the results
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JulianTao/Stress-Influence-Factor.git/master)
+
